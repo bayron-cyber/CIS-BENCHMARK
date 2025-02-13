@@ -1,4 +1,3 @@
- Rôle : Désactiver udf, un système de fichiers utilisé pour les DVD et Blu-ray.
 #!/usr/bin/env bash
 echo "install udf /bin/false" > /etc/modprobe.d/udf.conf
 echo "blacklist udf" >> /etc/modprobe.d/udf.conf
