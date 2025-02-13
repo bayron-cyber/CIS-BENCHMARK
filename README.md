@@ -7,3 +7,7 @@ Réduction des vulnérabilités : Il aide à minimiser les failles de sécurité
  Protection des systèmes : Appliquer ces recommandations permet de limiter les risques d'attaques et d'exploitations malveillantes.
 # Comment l'utiliser ?
         dans cette partie c’est le test des scripts présent dans le document cis benchmark ubuntu 22.04.
+Télécharger le benchmark sur le site officiel du CIS.
+Vérifier les configurations actuelles avec les scripts d'audit fournis.
+Appliquer les recommandations à l'aide des scripts de remédiation.
+Suivre et maintenir la conformité en mettant régulièrement à jour le système.
