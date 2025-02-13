@@ -1,4 +1,3 @@
-Rôle : Désactiver jffs2, un système de fichiers pour mémoire flash.
 #!/usr/bin/env bash
 echo "install jffs2 /bin/false" > /etc/modprobe.d/jffs2.conf
 echo "blacklist jffs2" >> /etc/modprobe.d/jffs2.conf
