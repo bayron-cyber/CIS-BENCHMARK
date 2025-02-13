@@ -1,4 +1,3 @@
-Rôle : Désactiver hfsplus, une version avancée de hfs utilisée par Mac OS.
 #!/usr/bin/env bash
 echo "install hfsplus /bin/false" > /etc/modprobe.d/hfsplus.conf
 echo "blacklist hfsplus" >> /etc/modprobe.d/hfsplus.conf
