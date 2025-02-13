@@ -6,7 +6,7 @@ Réduction des vulnérabilités : Il aide à minimiser les failles de sécurité
  Renforcement de la conformité : Il est utilisé par les entreprises pour respecter des normes comme ISO 27001, NIST, et SOC 2.
  Protection des systèmes : Appliquer ces recommandations permet de limiter les risques d'attaques et d'exploitations malveillantes.
 # Comment utiliser CIS Benchmark ?
-1-Télécharger le benchmark sur le site officiel du CIS.
- 2-Vérifier les configurations actuelles avec les scripts d'audit fournis.
-  3-Appliquer les recommandations à l'aide des scripts de remédiation.
+1-Télécharger le benchmark sur le site officiel du CIS.  
+ 2-Vérifier les configurations actuelles avec les scripts d'audit fournis.  
+  3-Appliquer les recommandations à l'aide des scripts de remédiation.  
    4-Suivre et maintenir la conformité en mettant régulièrement à jour le système.
