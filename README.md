@@ -5,9 +5,8 @@ Le CIS Benchmark est un ensemble de recommandations de sécurité développé pa
 Réduction des vulnérabilités : Il aide à minimiser les failles de sécurité en désactivant les services inutiles.
  Renforcement de la conformité : Il est utilisé par les entreprises pour respecter des normes comme ISO 27001, NIST, et SOC 2.
  Protection des systèmes : Appliquer ces recommandations permet de limiter les risques d'attaques et d'exploitations malveillantes.
-# Comment l'utiliser ?
-        dans cette partie c’est le test des scripts présent dans le document cis benchmark ubuntu 22.04.
-Télécharger le benchmark sur le site officiel du CIS.
-Vérifier les configurations actuelles avec les scripts d'audit fournis.
-Appliquer les recommandations à l'aide des scripts de remédiation.
-Suivre et maintenir la conformité en mettant régulièrement à jour le système.
+# Comment utiliser CIS Benchmark ?
+1-Télécharger le benchmark sur le site officiel du CIS.
+2-Vérifier les configurations actuelles avec les scripts d'audit fournis.
+3-Appliquer les recommandations à l'aide des scripts de remédiation.
+4-Suivre et maintenir la conformité en mettant régulièrement à jour le système.
