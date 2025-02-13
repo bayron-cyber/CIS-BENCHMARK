@@ -1,4 +1,3 @@
-Rôle : Désactiver hfs, un ancien système de fichiers utilisé par Mac OS.
 #!/usr/bin/env bash
 echo "install hfs /bin/false" > /etc/modprobe.d/hfs.conf
 echo "blacklist hfs" >> /etc/modprobe.d/hfs.conf
