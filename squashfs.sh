@@ -1,4 +1,3 @@
-Rôle : Désactiver squashfs, un système de fichiers compressé en lecture seule.
 #!/usr/bin/env bash
 echo "install squashfs /bin/false" > /etc/modprobe.d/squashfs.conf
 echo "blacklist squashfs" >> /etc/modprobe.d/squashfs.conf
